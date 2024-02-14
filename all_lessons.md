@@ -1,3 +1,4 @@
+### LESSON 1
 #### What is an IP Address?
 
 Any time you're typing an address into your browser like https://boot.dev, what you're saying is something like:
@@ -40,6 +41,8 @@ dns.resolve4(url, (err, addresses) => {
 * https://ca.norton.com/blog/privacy/what-is-an-ip-address
 * https://en.wikipedia.org/wiki/IP_address
 
+### LESSON 2
+
 #### URLs are IPs in EZ mode
 
 The last lesson demonstrated that URLs are just a way for you to give yourself a break and not remember all the numbers that make up an IP address.
@@ -80,6 +83,8 @@ dns.resolveNs(url, (err, nameservers) => {
 * https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
 * https://en.wikipedia.org/wiki/Web_browser#:~:text=Virtually%20all%20URLs%20are%20retrieved,communications%20security%20and%20information%20privacy.
 
+### LESSON 3
+
 #### IPs generally follow a format
 
 TODO: Fill this section out
@@ -91,6 +96,8 @@ TODO: Fill this section out
 
 * https://simple.wikipedia.org/wiki/IP_address#:~:text=IP%20addresses%20are%20usually%20written%20in%20human%2Dreadable%20form%2C%20where,group%20of%20eight%20hexadecimal%20numbers.
 * https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/tcpip-addressing-and-subnetting
+
+### LESSON 4
 
 #### IPs have doors
 
